@@ -16,12 +16,12 @@
 
 各練習問題の内容は以下の通りです：
 
-1. [Practice 1](practice1.md) - 基本的なNext.jsアプリケーションのセットアップ
-2. [Practice 2](practice2.md) - ページとルーティングの基本
-3. [Practice 3](practice3.md) - スタイルの追加とCSSモジュールの使用
-4. [Practice 4](practice4.md) - サーバーサイドレンダリングと静的サイト生成
-5. [Practice 5](practice5.md) - APIルートの作成
-6. [Practice 6](practice6.md) - デプロイとパフォーマンスの最適化
+1. [Practice_1](practice_1.md) - 基本的なNext.jsアプリケーションのセットアップ
+2. [Practice_2](practice_2.md) - ページとルーティングの基本
+3. [Practice_3](practice_3.md) - スタイルの追加とCSSモジュールの使用
+4. [Practice_4](practice_4.md) - サーバーサイドレンダリングと静的サイト生成
+5. [Practice_5](practice_5.md) - APIルートの作成
+6. [Practice_6](practice_6.md) - デプロイとパフォーマンスの最適化
 
 各練習問題は、個別のディレクトリにあり、それぞれのREADMEファイルで詳細を説明しています。
 
